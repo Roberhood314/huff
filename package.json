@@ -1,5 +1,5 @@
 {
-  "name": "pi-network-app",
+  "name": "huff",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -72,5 +72,10 @@
     "tailwindcss": "^4.1.9",
     "tw-animate-css": "1.3.3",
     "typescript": "^5"
+  },
+  "packageManager": "pnpm@10.20.0",
+  "engines": {
+    "node": ">=22 <25",
+    "pnpm": ">=10"
   }
 }

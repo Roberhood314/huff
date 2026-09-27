@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/huff:latest
+          tags: ghcr.io/roberhood314/huff:latest
